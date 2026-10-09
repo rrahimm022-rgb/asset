@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AssetForge — usable local ID mapping application
 
 This is a working Next.js application for parsing Roblox asset IDs, creating/editing old-to-new mappings, removing rows, copying complete mappings, and exporting CSV. The mapping workflow runs in the browser and does not require credentials.
@@ -20,3 +21,6 @@ Import this folder as a GitHub repository into Vercel. The build command is `npm
 
 ## Honest feature scope
 This is not a fake mockup: the parsing, mapping editor, remove action, copy, and CSV export are implemented. It is not an account/asset spoofer and does not upload, modify, or republish Roblox assets. A real upload feature must be built against supported Roblox Open Cloud APIs and tested with an authorized creator account; this ZIP does not claim that capability.
+=======
+# asset
+>>>>>>> b15b3ad5f762ff5c2163a993090bfa5c39100e8c
